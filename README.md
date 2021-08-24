@@ -5,6 +5,7 @@ This is a lexicon for Turkish morphology. Each entry in the lexicon corresponds 
 
 ```
 evde ev,N,case.loc
+gittim git,V,past,v1s
 ```
 
 Each analysis line consists of
@@ -13,7 +14,7 @@ Each analysis line consists of
 * POS tag of the lemma
 * A list of morphological tags.
 
-The complete list of the morphological tags and their corresponding morphemes can be found at [suffixes file](suffixes/suffixes.txt).
+The complete list of the morphological tags and their corresponding morphemes can be found at  [tagset](tagset.md) and [list of suffixes](suffixes/suffixes.txt).
 
 
 The licence is MIT. Citation notes will come soon.
